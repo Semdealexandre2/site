@@ -1,6 +1,6 @@
 baseURL: https://semdealexweb.netlify.app/
 languageCode: en-us
-title: Forty
+title: alexe
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -9,23 +9,23 @@ params:
     buttonText: Get Started
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+      AND RELEASED UNDER THE CREATIVE COMMONS THANK YOU FOR YOUR VISIT.
+    title: Hi, my name is Semde Alexandre
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: City, ST 06 Koudougou
+        country: Burkina Faso
+        street: RN 13
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: alexandresemde@gmail.com
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (+226)62881660 77879872
         title: Phone
   custom_css: []
   custom_js: []
@@ -35,7 +35,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: SongTaaba Business Internationnal
     enable: yes
     quicklinks:
       - alt: HTML5 UP
@@ -44,19 +44,19 @@ params:
     social:
       - icon: fa-twitter
         label: Twitter
-        url: https://www.twitter.com
+        url: https://www.twitter.com/@Alexandresemde
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
+        url: https://www.facebook.com/Semde Alexe
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/Semde Alexe
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/Semdealexandre2
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/Semde-alexandre-38031718a
   image: ''
   name: Your name
   navigation:
@@ -82,27 +82,27 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        subtitle: personal carrier
+        title: carier
         url: blogs/aliquam
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+        subtitle: Curculuim vitae
+        title: cv
         url: blogs/tempus
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+        subtitle: project
+        title: security for BURKINA
         url: blogs/magna
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        subtitle: Strong and Weakeness
+        title: Hobbies
         url: blogs/ipsum
       - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
+        subtitle: usually job
+        title: welding man
         url: blogs/ipsum
       - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
+        subtitle: My dream
         title: Etiam
         url: blogs/ipsum
   two:
