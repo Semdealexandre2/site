@@ -103,7 +103,7 @@ params:
         url: blogs/ipsum
       - image: pic06.jpg
         subtitle: My dream
-        title: Etiam
+        title: Et
         url: blogs/ipsum
   two:
     buttonText: Get Started

@@ -9,4 +9,5 @@ image: pic09.jpg
 keywords: ""
 slug: magna
 title: Magna
+
 ---
