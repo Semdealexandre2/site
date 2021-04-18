@@ -76,8 +76,8 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: 
+    title: Alexe portfolio
   tiles:
     enable: yes
     showcase:
@@ -90,20 +90,20 @@ params:
         title: cv
         url: blogs/tempus
       - image: pic03.jpg
-        subtitle: project
-        title: security for BURKINA
+        subtitle: security for BURKINA 
+        title: project
         url: blogs/magna
       - image: pic04.jpg
         subtitle: Strong and Weakeness
         title: Hobbies
         url: blogs/ipsum
       - image: pic05.jpg
-        subtitle: usually job
-        title: welding man
+        subtitle: welding man
+        title: job
         url: blogs/ipsum
       - image: pic06.jpg
-        subtitle: My dream
-        title: Et
+        subtitle: My company
+        title: Song-Taaba Business
         url: blogs/ipsum
   two:
     buttonText: Get Started

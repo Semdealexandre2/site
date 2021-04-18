@@ -8,6 +8,6 @@ draft: false
 image: pic09.jpg
 keywords: ""
 slug: magna
-title: Magna
+title: Security for Burkina Faso
 
 ---
